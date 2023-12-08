@@ -1,1 +1,0 @@
-alert('Welcome to my first project & Animal Poem!');
